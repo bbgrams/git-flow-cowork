@@ -1,4 +1,4 @@
 # git-flow-cowork
 
-console.log("Hi! ChoRoMi SoYoung Hyebi!");
-console.log("I am westbro!");
+## Hi! ChoRoMi SoYoung Hyebi!
+## I am westbro!
