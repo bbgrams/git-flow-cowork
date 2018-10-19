@@ -1,4 +1,6 @@
-# git-flow-cowork
+
+q:# git-flow-cowork
+i# git-flow-cowork
 
 Love BSC
 ## Hi! ChoRoMi SoYoung Hyebi!
@@ -16,3 +18,5 @@ Love BSC
 
 
 ### > hungry........................... -soyoung
+## no....no...no..stop..! - hyebi
+## Can we have lunch now? - Choromi
