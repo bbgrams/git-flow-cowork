@@ -1,4 +1,4 @@
-# git-flow-cowork
+i# git-flow-cowork
 
 Love BSC
 ## Hi! ChoRoMi SoYoung Hyebi!
@@ -10,4 +10,4 @@ Love BSC
 ## oh hi, i want go home...-hyebi
 
 
-## Github is Sucks - Choromi
+## Can we have lunch now? - Choromi
